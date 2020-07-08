@@ -1,4 +1,10 @@
 # Computer-Science-Bicocca
-Computer Science Repository - Python
+Computer Science Repository 
 
-https://www.kaggle.com/gaborfodor/additional-kiva-snapshot
+Programming Language: Python
+
+Project made with Jupyter Notebook
+
+Dataset: https://www.kaggle.com/gaborfodor/additional-kiva-snapshot
+
+
